@@ -1,2 +1,2 @@
 # testrepo
-Coursera
+Coursera Course
